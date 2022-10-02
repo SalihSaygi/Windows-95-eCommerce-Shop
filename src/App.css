@@ -329,11 +329,11 @@
   align-items: center;
 }
 
-input.sc-tAExr.gTBQRq.addressInputs {
+input.sc-tAExr.eVbxKW.addressInputs {
   padding: 1% 5%;
 }
 
-input.sc-tAExr.gTBQRq.cardInputs {
+input.sc-tAExr.eVbxKW.cardInputs {
   padding: 1% 5%;
 }
 
@@ -501,12 +501,16 @@ input.sc-tAExr.gTBQRq.cardInputs {
     align-items: center;
 }
 
-select.sc-hYQoXb.lgiqfy {
+select.sc-hYQoXb.dArYds {
   padding: 0 21px 0 7px;
 }
 
 .sc-iWBNLc.bLJabh {
   width: 100%;
+}
+
+.sc-iWBNLc.ciGVbO {
+    width: 100%;
 }
 
 .noItemsBox {
